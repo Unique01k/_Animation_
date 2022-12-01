@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "/I0Z0ZWsFQbQJ2ZopJXgk3cqOj7Q0cn9Mq4RlnxWmSvC3VwOpzYwcSCiZ3CdwwjF7AUstNXQNv4bYVgGpaViOw==",
+  "success": true,
+  "projectFilePath": "D:\\Animation\\Animation\\Animation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uniqu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\uniqu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\uniqu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\uniqu\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\uniqu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\uniqu\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\uniqu\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\uniqu\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512",
+    "C:\\Users\\uniqu\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512",
+    "C:\\Users\\uniqu\\.nuget\\packages\\xamarin.plugin.sharedtransitions\\2.4.0\\xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
